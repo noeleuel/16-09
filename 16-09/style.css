@@ -1,0 +1,34 @@
+body {
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h1 {
+font-size: 2em;
+color: blue;
+
+}
+
+
+h2 {
+color: blueviolet;
+
+}
+
+#titulo-principal {
+
+background-color: bisque;
+color: darkgreen;
+text-align: center;
+
+}
+
+.topico {
+text-align: right;
+
+}
+
+.texto {
+text-align: justify;
+
+}
